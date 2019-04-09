@@ -1,0 +1,37 @@
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+  margin-top:40px;
+}
+
+.error{
+  background-color: #f2dede;
+  border-color: #ebccd1;
+  color: #a94442;
+    
+}
+
+.clear{
+  clear:both; 
+}
+
+#footer{
+  padding: 40px 15px;
+  text-align: center; 
+}
+
+#nav{
+  list-style-type:none;
+}
+ul#nav li{
+  float:left;
+  margin-right:30px;
+}
+
+.table-data td{
+   padding:10px;
+   border:1px solid gray;
+   text-align:left;
+   font-size:14px;
+}
